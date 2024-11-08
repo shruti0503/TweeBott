@@ -3,6 +3,27 @@
 TweeBot
 TweeBot is a powerful and intuitive tool designed to help you manage your Twitter presence effectively. With features like scheduled tweets, reusable templates, content-driven hashtag suggestions, and secure Twitter OAuth authentication, TweeBot simplifies how you interact with Twitter, ensuring your content stays relevant and on schedule.
 
+DemoVideo: https://drive.google.com/file/d/1d40IXv4oh6zBJPWZqV0iWdkgcPQRwrDC/view?usp=sharing
+
+LogIn : Make sure you are logged in to your twitter account
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/6824d9f8-cdf2-4921-83eb-fe52c1ff9f87">
+
+Dashboard:
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/8dbae0ee-ea42-4a42-86d2-a96d98254eae">
+
+Schedules:
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/e66b246d-d8cd-421b-9c11-d4bf92fd6770">
+
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/42280e28-9c47-4685-a89f-57aa4ac84782">
+
+
+Templates
+
+<img width="1436" alt="image" src="https://github.com/user-attachments/assets/bac1b944-eb8b-4ef2-bed1-40791759ce21">
+
+
+
+
 🔒 Privacy Notice
 The code for this application is private and not publicly available. Feel free to reach out if you have any questions about the project or its features.
 
