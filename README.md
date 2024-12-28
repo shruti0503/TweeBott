@@ -1,6 +1,5 @@
 # TweeBott
 
-TweeBot
 TweeBot is a powerful and intuitive tool designed to help you manage your Twitter presence effectively. With features like scheduled tweets, reusable templates, content-driven hashtag suggestions, and secure Twitter OAuth authentication, TweeBot simplifies how you interact with Twitter, ensuring your content stays relevant and on schedule.
 
 DemoVideo: https://drive.google.com/file/d/1d40IXv4oh6zBJPWZqV0iWdkgcPQRwrDC/view?usp=sharing
