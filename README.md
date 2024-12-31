@@ -46,8 +46,11 @@ JWT Authentication: Secure user authentication and session management with JWT t
 HTTPS and Secure Cookies: JWTs are stored in HTTP-only cookies for added security.
 
 🌐 Deployment
+
 Frontend: Deployed on Netlify
+
 Backend: Deployed on Render
+
 Database: MongoDB for data storage and management
 
 
