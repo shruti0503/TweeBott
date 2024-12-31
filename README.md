@@ -7,7 +7,7 @@ DemoVideo: https://drive.google.com/file/d/1d40IXv4oh6zBJPWZqV0iWdkgcPQRwrDC/vie
 Deployed Link : https://twee-bot.netlify.app/
 
 LogIn : Make sure you are logged in to your twitter account
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/6824d9f8-cdf2-4921-83eb-fe52c1ff9f87">
+<img width="1439" alt="Screenshot 2024-12-31 at 4 46 08 PM" src="https://github.com/user-attachments/assets/226421f2-deba-4d83-a74f-fc150aa19a71" />
 
 Dashboard:
 <img width="1437" alt="image" src="https://github.com/user-attachments/assets/8dbae0ee-ea42-4a42-86d2-a96d98254eae">
