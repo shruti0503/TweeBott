@@ -46,9 +46,6 @@ Database: MongoDB
 Authentication: JWT (JSON Web Tokens) , Twitter Oauth
 Deployment: Frontend on Netlify, Backend on Render
 
-🛡️ Security
-JWT Authentication: Secure user authentication and session management with JWT tokens.
-HTTPS and Secure Cookies: JWTs are stored in HTTP-only cookies for added security.
 
 🌐 Deployment
 
