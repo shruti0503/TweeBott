@@ -24,9 +24,8 @@ Templates
 
 
 
-
-🔒 Privacy Notice
-The code for this application is private and not publicly available. Feel free to reach out if you have any questions about the project or its features.
+🔒 Code Privacy
+The code for this application is private. 
 
 🚀 Features
 Scheduled Tweets: Set up your tweets to be posted automatically at your preferred times.
