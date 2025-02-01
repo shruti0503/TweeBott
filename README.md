@@ -43,7 +43,7 @@ Twitter OAuth Integration: Secure login and management of your Twitter account u
 Frontend: React.js with Tailwind CSS
 Backend: Node.js, Express, Passport.js (Twitter OAuth), deployed on Render
 Database: MongoDB
-Authentication: JWT (JSON Web Tokens) , Twitter Oauth
+Authentication: Twitter Oauth
 Deployment: Frontend on Netlify, Backend on Render
 
 
