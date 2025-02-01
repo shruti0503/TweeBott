@@ -28,6 +28,7 @@ Templates
 The code for this application is private. 
 
 🚀 Features
+
 Scheduled Tweets: Set up your tweets to be posted automatically at your preferred times.
 
 Reusable Templates: Save your tweet formats as templates and reuse them to maintain consistency across your posts.
@@ -35,6 +36,8 @@ Reusable Templates: Save your tweet formats as templates and reuse them to maint
 Hashtag Suggestions: Get smart hashtag suggestions based on the content of your tweets to boost your visibility.
 
 Twitter OAuth Integration: Secure login and management of your Twitter account using Twitter's OAuth protocol.
+
+-
 
 🌐 Tech Stack
 Frontend: React.js with Tailwind CSS
