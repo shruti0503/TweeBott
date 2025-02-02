@@ -4,8 +4,6 @@ TweeBot is a powerful and intuitive tool designed to help you manage your Twitte
 
 DemoVideo: https://drive.google.com/file/d/1d40IXv4oh6zBJPWZqV0iWdkgcPQRwrDC/view?usp=sharing
 
-Deployed Link : https://twee-bot.netlify.app/
-
 LogIn : Make sure you are logged in to your twitter account
 <img width="1439" alt="Screenshot 2024-12-31 at 4 46 08 PM" src="https://github.com/user-attachments/assets/226421f2-deba-4d83-a74f-fc150aa19a71" />
 
